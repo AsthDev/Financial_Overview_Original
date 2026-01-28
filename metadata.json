@@ -1,0 +1,7 @@
+{
+  "name": "VisualFin - AI Financial Analyst",
+  "description": "A proactive financial advisor that uses Gemini Vision for receipt extraction and semantic search for historical expense comparison.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
